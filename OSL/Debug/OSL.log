@@ -1,0 +1,9 @@
+﻿  Checkout.cpp
+C:\Users\85265\Downloads\OSLTechTest_soujanyo\OSL\Checkout.cpp(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\85265\Downloads\OSLTechTest_soujanyo\OSL\Checkout.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\85265\Downloads\OSLTechTest_soujanyo\OSL\Checkout.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\85265\Downloads\OSLTechTest_soujanyo\OSL\Checkout.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+  Item.cpp
+  Main.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\85265\Downloads\OSLTechTest_soujanyo\OSL\Debug\OSL.exe'
